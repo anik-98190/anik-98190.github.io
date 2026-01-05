@@ -1,4 +1,4 @@
-# Hi there, I'm Your Name! 👋
+# Hi there, I'm Your Anik! 👋
 
 I’m a <role> focused on <domains>. I enjoy building <what you build> and sharing <what you share>.
 

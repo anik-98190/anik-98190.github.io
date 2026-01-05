@@ -498,6 +498,37 @@ section {
     transform: translateY(-2px);
 }
 
+/* Success Message */
+.success-message {
+    position: fixed;
+    top: 100px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    color: white;
+    padding: 1rem 2rem;
+    border-radius: 8px;
+    box-shadow: var(--shadow-lg);
+    z-index: 2000;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
+}
+
+.success-message.show {
+    opacity: 1;
+    animation: slideDown 0.3s ease;
+}
+
+@keyframes slideDown {
+    from {
+        transform: translateX(-50%) translateY(-20px);
+    }
+    to {
+        transform: translateX(-50%) translateY(0);
+    }
+}
+
 /* Footer */
 .footer {
     background-color: var(--text-color);

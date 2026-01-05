@@ -95,11 +95,30 @@ contactForm.addEventListener('submit', (e) => {
     console.log('Form submitted:', { name, email, message });
     
     // Show success message
-    alert('Thank you for your message! I will get back to you soon.');
+    showSuccessMessage('Thank you for your message! I will get back to you soon.');
     
     // Reset form
     contactForm.reset();
 });
+
+// Function to show success message
+function showSuccessMessage(message) {
+    // Create success message element if it doesn't exist
+    let successMsg = document.querySelector('.success-message');
+    if (!successMsg) {
+        successMsg = document.createElement('div');
+        successMsg.className = 'success-message';
+        document.body.appendChild(successMsg);
+    }
+    
+    successMsg.textContent = message;
+    successMsg.classList.add('show');
+    
+    // Hide after 3 seconds
+    setTimeout(() => {
+        successMsg.classList.remove('show');
+    }, 3000);
+}
 
 // Add active state to navigation links based on scroll position
 window.addEventListener('scroll', () => {
@@ -154,3 +173,11 @@ function typeWriter() {
 
 // Uncomment the line below to enable typing effect
 // setTimeout(typeWriter, 500);
+
+// Set current year in footer
+document.addEventListener('DOMContentLoaded', () => {
+    const yearSpan = document.getElementById('currentYear');
+    if (yearSpan) {
+        yearSpan.textContent = new Date().getFullYear();
+    }
+});

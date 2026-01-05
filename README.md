@@ -1,51 +1,45 @@
-# Hi there, I'm Your Anik! 👋
+# Hi there, I'm Anik! 👋
 
-I’m a <role> focused on <domains>. I enjoy building <what you build> and sharing <what you share>.
+![Portfolio Website](https://github.com/user-attachments/assets/bcda4f25-8371-4f57-8dbd-40ee74019a29)
+
+## Portfolio Website
+
+Visit my portfolio website: [anik-98190.github.io](https://anik-98190.github.io)
+
+I'm a software developer focused on web development. I enjoy building amazing web experiences and solving complex problems with code.
 
 ## Quick Links
-- 🌐 Portfolio: <your site>
+- 🌐 Portfolio: [anik-98190.github.io](https://anik-98190.github.io)
 - 💼 LinkedIn: <linkedin-url>
-- 🧰 Toolbox: <tech you love>
+- 🧰 Toolbox: JavaScript, Python, React, Node.js, and more
 
-## What I’m Doing Now
-- 🚀 Working on: <current project/goal>
-- 📚 Learning: <tech/skill>
-- 🤝 Open to: <collabs/mentoring/freelance/etc.>
+## What I'm Doing Now
+- 🚀 Working on: Building amazing web projects
+- 📚 Learning: New technologies and frameworks
+- 🤝 Open to: Collaborations and new opportunities
 
 ## Highlights
-- ✅ <Notable achievement 1>
-- ✅ <Notable achievement 2>
-- ✅ <Notable achievement 3>
+- ✅ Created a professional portfolio website
+- ✅ Skilled in full-stack web development
+- ✅ Passionate about clean code and best practices
 
 ## Tech Stack
-- Languages: <list>
-- Frameworks/Libraries: <list>
-- Cloud/DevOps: <list>
-- Databases: <list>
-- Tools: <list>
+- Languages: JavaScript, Python, HTML/CSS, TypeScript, Java
+- Frameworks/Libraries: React, Node.js, Express, Django, Vue.js
+- Cloud/DevOps: AWS, Docker, CI/CD, Git
+- Databases: MongoDB, PostgreSQL, MySQL, Redis
+- Tools: Git, Linux, and more
 
 ## Featured Projects
-- <Project 1> — <short description> — [Repo](link) · [Demo](link)
-- <Project 2> — <short description> — [Repo](link) · [Demo](link)
-- <Project 3> — <short description> — [Repo](link) · [Demo](link)
-
-## GitHub Stats
-<!-- You can enable these by adding the corresponding markdown from the service you choose -->
-<!-- Example (GitHub Readme Stats by anuraghazra):
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
--->
-
-## Latest Writing
-- 📝 <Post 1> — <link>
-- 📝 <Post 2> — <link>
-- 📝 <Post 3> — <link>
+- E-Commerce Platform — Full-stack application with cart and payment integration
+- Task Management App — Collaborative tool with real-time updates
+- Weather Dashboard — Interactive weather app with forecasts and alerts
 
 ## Contact
 - 📫 Email: <your email>
-- 🗣️ Other: <discord/twitter/etc.>
+- 🔗 GitHub: [@anik-98190](https://github.com/anik-98190)
 
 ## Support
 If you like my work:
 - ⭐ Star a repo
-- ☕ <BuyMeACoffee/Ko-fi link>
+- 🤝 Connect with me
